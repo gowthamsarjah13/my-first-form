@@ -1,0 +1,19 @@
+form{
+    margin: 20px 0px;
+    padding: 20px 0px;
+    background-color: #e8e8e8;
+    border-radius: 10px;
+}
+
+.form-label{
+    margin: 10px 10px;
+}
+
+.form-check-input{
+    margin: 14px 10px;
+}
+.btn-par{
+    display: flex;
+    justify-content: center;
+    margin: 15px 0px;
+}
